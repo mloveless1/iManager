@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IManager</string>
+    <string name="qty.">Qty.</string>
+    <string name="itemName"><b>Item Name</b></string>
+    <string name="qtyNum"><b>Quantity</b></string>
+    <string name="main_title"><b>Inventory</b></string>
+
+</resources>
